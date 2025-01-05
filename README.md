@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DebjitDey12345
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Mern Stack Web Developement
+- 👀 I’m interested in Java & Frontend Development
+- 🌱 I’m currently learning Mern Stack Web Development
 - 📫 How to reach me Mail-debjitdey2021@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
