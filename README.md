@@ -1,3 +1,7 @@
+
+![github-header-image (2)](https://github.com/user-attachments/assets/3406edd0-21d1-4b03-8938-4ec608b2f7f4)
+
+
 <h1 align="center">Hi 👋, I'm Debjit Dey</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
